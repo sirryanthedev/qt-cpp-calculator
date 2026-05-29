@@ -1,5 +1,6 @@
 # qt-cpp-calculator
 
+```
 qt-cpp-calculator:
 ├───code
 └───release
@@ -13,3 +14,4 @@ qt-cpp-calculator:
     ├───translations
     ├───(dll's etc.)
     └───simple_calculator_qt.exe        -> The actual executable
+```
